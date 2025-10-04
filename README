@@ -1,0 +1,54 @@
+🕒 Digital Clock
+
+A simple Digital Clock built with HTML, CSS, and JavaScript.
+It displays the current time in HH:MM:SS format and updates automatically every second.
+
+🚀 Features
+
+⏰ Real-time digital clock
+
+🔄 Updates every second using setInterval()
+
+🎨 Styled with card layout and purple theme
+
+📱 Responsive design with Flexbox
+
+✨ Clean and minimal UI
+
+🛠️ Technologies Used
+
+HTML5 – Structure
+
+CSS3 – Styling (Flexbox, card design, shadows)
+
+JavaScript (ES6) – Clock functionality
+
+📸 Preview
+
+(Add a screenshot of your project here once you take one 📷)
+
+📂 Project Structure
+digital-clock/
+│── index.html     # Main HTML file  
+│── style.css      # Styling file  
+│── scripts.js     # Clock logic (JavaScript)  
+
+⚡ How It Works
+
+Uses JavaScript’s Date() object to get the current hours, minutes, and seconds.
+
+Adds a leading 0 if values are below 10 for proper formatting (e.g., 07 instead of 7).
+
+Updates the DOM every second with setInterval().
+
+📌 Future Improvements
+
+Add AM/PM format option
+
+Include Dark/Light Mode toggle
+
+Display Day & Date
+
+▶️ Live Demo
+
+()
